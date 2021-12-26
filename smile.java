@@ -22,5 +22,4 @@ public class smile extends Applet {
 		g.drawLine(190, 51, 190, 25);
 		g.drawLine(190, 51, 210, 25);
 	}
-
 }
