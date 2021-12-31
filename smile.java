@@ -1,6 +1,6 @@
 import java.applet.Applet;
 import java.awt.*;
-//<Applet code="smile.class" height=1000px width=1000px></Applet>
+//<Applet code="smile" height=800 width=800></Applet>
 
 public class smile extends Applet {
 	
