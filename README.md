@@ -13,11 +13,11 @@ Questions:-
 
 4. WAP to find the area of rectangle using constructor
 
-5. WAP to find the area of rectangle and area of square using function overloading and Function Overriding.----------(uploaded---overrd.java)
+5. WAP to find the area of rectangle and area of square using function overloading and Function Overriding.----------(uploaded---overrd.java---overld.java)
 
 6. WAP to find the area of rectangle using single inheritance and multilevel Inheritence.----------(uploaded---)
 
-7. WAP to find the area of rectangle and circle using interface.
+7. WAP to find the area of rectangle and circle using interface.----------(uploaded---inter_face.java)
 
 8. WAP to handle the Exception using try and multiple catch blocks and a finally block.----------(uploaded)
 
