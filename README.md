@@ -35,7 +35,7 @@ Questions:-
 
 15. What are various exceptions in JAVA? Write a program to handle your own Exception.
 
-16. Write Applet code to add two integers in textbox and their sum should appear in third textbox.
+16. Write Applet code to add two integers in textbox and their sum should appear in third textbox.----------(uploaded---summ.java)
 
 17. Write AWT program in Java to find the sum, Multiplication and average of three numbers entered in three Text fields by clicking the corresponding Labeled Button.
     The result should be appearing in fourth text field.
