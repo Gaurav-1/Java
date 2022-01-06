@@ -19,9 +19,9 @@ Questions:-
 
 7. WAP to find the area of rectangle and circle using interface.----------(uploaded---inter_face.java)
 
-8. WAP to handle the Exception using try and multiple catch blocks and a finally block.----------(uploaded)
+8. WAP to handle the Exception using try and multiple catch blocks and a finally block.----------(uploaded---Exec.java)
 
-9. WAP to handle the user defined Exception.----------(uploaded---Exec.java)
+9. WAP to handle the user defined Exception.----------(uploaded---UserExec.java)
 
 10. WAP to create threads using thread class and demonstrate using their priority.
 
