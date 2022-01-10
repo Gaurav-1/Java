@@ -23,7 +23,7 @@ Questions:-
 
 9. WAP to handle the user defined Exception.----------(uploaded---UserExec.java)
 
-10. WAP to create threads using thread class and demonstrate using their priority.
+10. WAP to create threads using thread class and demonstrate using their priority.----------(uploaded---ThreadTry.java)
 
 11. WAP to read the contents of a file using Character Stream.
 
