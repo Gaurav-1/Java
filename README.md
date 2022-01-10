@@ -5,17 +5,17 @@ This folder contains the programms we executed in java lab.
 
 Questions:-
 
-1. WAP to find the sum of 10 numbers, entered as command line arguments.
+1. WAP to find the sum of 10 numbers, entered as command line arguments.----------(uploaded---CLA.java)
 
-2. WAP that take two numbers as input from command line interface and display their sum.
+2. WAP that take two numbers as input from command line interface and display their sum.----------(uploaded---CLA2.java)
 
-3. WAP to find the area of rectangle using objects.
+3. WAP to find the area of rectangle using objects.----------(uploaded---ObjRect.java)
 
-4. WAP to find the area of rectangle using constructor
+4. WAP to find the area of rectangle using constructor.----------(uploaded---RecCon.java)
 
 5. WAP to find the area of rectangle and area of square using function overloading and Function Overriding.----------(uploaded---overrd.java---overld.java)
 
-6. WAP to find the area of rectangle using single inheritance and multilevel Inheritence.----------(uploaded---)
+6. WAP to find the area of rectangle using single inheritance and multilevel Inheritence.----------(uploaded---SIMI.java)
 
 7. WAP to find the area of rectangle and circle using interface.----------(uploaded---inter_face.java)
 
@@ -29,7 +29,7 @@ Questions:-
 
 12. WAP for Implementing Calculator in an Applet, use appropriate Layout Manager.
 
-13. WAP to implement Grid Layout and Border Layout.
+13. WAP to implement Grid Layout and Border Layout.----------(uploaded---BdrLayout.java)
 
 14. WAP to implement MouseMotion and MouseMotionListener Interface.
 
@@ -44,7 +44,7 @@ Questions:-
 
 19. Write Java code to demonstrate:
     (i) Layout Managers
-    (ii) Package
+    (ii) Package----------(uploaded---pkg.java---pakage1[folder])
     (iii) Stream Tokenizers 
     (iv) ActionListener
 
