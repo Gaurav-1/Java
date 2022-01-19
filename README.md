@@ -29,7 +29,7 @@ Questions:-
 
 12. WAP for Implementing Calculator in an Applet, use appropriate Layout Manager.
 
-13. WAP to implement Grid Layout and Border Layout.----------(uploaded---BdrLayout.java)
+13. WAP to implement Grid Layout and Border Layout.----------(uploaded---?---BdrLayout.java)
 
 14. WAP to implement MouseMotion and MouseMotionListener Interface.
 
@@ -66,6 +66,6 @@ Questions:-
 
 28. Write a program to Copy the text from one file to another using byte stream.
 
-29. What are various types of Applets? Explain in detail Applet life cycle. Write Java code that shows the working of every applet function?----------(uploaded---Apptry.java)
+29. What are various types of Applets? Explain in detail Applet life cycle. Write Java code that shows the working of every applet function?
 
 30. Discuss ActionListener and ItemListener interfaces in detail. Write your own code to demonstrate the respective functions these interfaces.
