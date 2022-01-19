@@ -1,7 +1,7 @@
 # Java
 MCA Java program
 
-This folder contains the programms we executed in java lab.
+This repositorie contains the programms we executed in java lab.
 
 Questions:-
 
