@@ -27,7 +27,7 @@ Questions:-
 
 11. WAP to read the contents of a file using Character Stream.
 
-12. WAP for Implementing Calculator in an Applet, use appropriate Layout Manager.
+12. WAP for Implementing Calculator in an Applet, use appropriate Layout Manager.----------(uploaded---Calculator.java)
 
 13. WAP to implement Grid Layout and Border Layout.----------(uploaded---?---BdrLayout.java)
 
