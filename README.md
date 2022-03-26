@@ -62,7 +62,7 @@ Questions:-
 
 26. Discuss MouseListener and MouseMotionListener interfaces in detail. Write code to drag a line and rectangle using these interfaces.
 
-27. Write java code to demonstrate the concept of checkbox and radio button using appropriate interface.
+27. Write java code to demonstrate the concept of checkbox and radio button using appropriate interface.----------(uploaded---CheckRadio.java---Radio.java)
 
 28. Write a program to Copy the text from one file to another using byte stream.
 
