@@ -60,7 +60,7 @@ Questions:-
 
 25. Write Java code to demonstrate different Layouts in Java. Discusses the importance of Adaptor class while inheriting inbuilt interfaces.----------(uploaded---MultiLay.java) 
 
-26. Discuss MouseListener and MouseMotionListener interfaces in detail. Write code to drag a line and rectangle using these interfaces.
+26. Discuss MouseListener and MouseMotionListener interfaces in detail. Write code to drag a line and rectangle using these interfaces.----------(uploaded---Draw.java) 
 
 27. Write java code to demonstrate the concept of checkbox and radio button using appropriate interface.----------(uploaded---CheckRadio.java---Radio.java)
 
