@@ -29,7 +29,7 @@ Questions:-
 
 12. WAP for Implementing Calculator in an Applet, use appropriate Layout Manager.----------(uploaded---Calculator.java)
 
-13. WAP to implement Grid Layout and Border Layout.----------(uploaded---?---BdrLayout.java)
+13. WAP to implement Grid Layout and Border Layout.----------(uploaded---GridLay.java---BdrLayout.java)
 
 14. WAP to implement MouseMotion and MouseMotionListener Interface.----------(uploaded---MListener.java)
 
@@ -48,15 +48,15 @@ Questions:-
     (iii) Stream Tokenizers 
     (iv) ActionListener
 
-20. What are various stream classes in Java? Write Java code to read character from a file and write into another file.
+20. What are various stream classes in Java? Write Java code to read character from a file and write into another file.----------(uploaded---CopyFile.java)
 
-21. What are AWT Classes? Write Java Program to generate Even numbers and Odd Numbers in TextField “T1 and T2 respectively” while pressing Button “Even” and “Odd”.
+21. What are AWT Classes? Write Java Program to generate Even numbers and Odd Numbers in TextField “T1 and T2 respectively” while pressing Button “Even” and “Odd”.----------(uploaded---EvenOdd.java)
 
 22. What is Applet Life Cycle? Explain with suitable Java Program so that every Applet function works?----------(uploaded---Apptry.java)
     
 23. Write applet code to draw following shapes using Applet graphics.----------(uploaded---smile.java---boat.java)
 
-24. Write Applet code to show all the activities of Mouse using Mouselistener and MouseMotionlistener classes.
+24. Write Applet code to show all the activities of Mouse using Mouselistener and MouseMotionlistener classes.----------(uploaded---MListener.java)
 
 25. Write Java code to demonstrate different Layouts in Java. Discusses the importance of Adaptor class while inheriting inbuilt interfaces.----------(uploaded---MultiLay.java) 
 
@@ -66,6 +66,6 @@ Questions:-
 
 28. Write a program to Copy the text from one file to another using byte stream.
 
-29. What are various types of Applets? Explain in detail Applet life cycle. Write Java code that shows the working of every applet function?
+29. What are various types of Applets? Explain in detail Applet life cycle. Write Java code that shows the working of every applet function?----------(uploaded---AppLife.java)
 
 30. Discuss ActionListener and ItemListener interfaces in detail. Write your own code to demonstrate the respective functions these interfaces.
