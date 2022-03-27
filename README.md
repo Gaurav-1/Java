@@ -45,8 +45,8 @@ Questions:-
 19. Write Java code to demonstrate:
     (i) Layout Managers
     (ii) Package----------(uploaded---pkg.java---pakage1[folder])
-    (iii) Stream Tokenizers 
-    (iv) ActionListener
+    (iii) Stream Tokenizers----------(uploaded---Token.java)
+    (iv) ActionListener----------(uploaded---ActLis.java)
 
 20. What are various stream classes in Java? Write Java code to read character from a file and write into another file.----------(uploaded---CopyFile.java)
 
@@ -64,8 +64,8 @@ Questions:-
 
 27. Write java code to demonstrate the concept of checkbox and radio button using appropriate interface.----------(uploaded---CheckRadio.java---Radio.java)
 
-28. Write a program to Copy the text from one file to another using byte stream.
+28. Write a program to Copy the text from one file to another using byte stream.----------(uploaded---ByteCopyFile.java)
 
 29. What are various types of Applets? Explain in detail Applet life cycle. Write Java code that shows the working of every applet function?----------(uploaded---AppLife.java)
 
-30. Discuss ActionListener and ItemListener interfaces in detail. Write your own code to demonstrate the respective functions these interfaces.
+30. Discuss ActionListener and ItemListener interfaces in detail. Write your own code to demonstrate the respective functions these interfaces.----------(uploaded---ActItm.java)
