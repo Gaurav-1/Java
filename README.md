@@ -33,14 +33,14 @@ Questions:-
 
 14. WAP to implement MouseMotion and MouseMotionListener Interface.----------(uploaded---MListener.java)
 
-15. What are various exceptions in JAVA? Write a program to handle your own Exception.
+15. What are various exceptions in JAVA? Write a program to handle your own Exception.----------(uploaded---UserExce.java)
 
 16. Write Applet code to add two integers in textbox and their sum should appear in third textbox.----------(uploaded---summ.java)
 
 17. Write AWT program in Java to find the sum, Multiplication and average of three numbers entered in three Text fields by clicking the corresponding Labeled Button.
-    The result should be appearing in fourth text field.
+    The result should be appearing in fourth text field.----------(uploaded---SMA.java)
 
-18. Write Applet code to show all the activities of Mouse using Mouselistener and MouseMotionlistener.
+18. Write Applet code to show all the activities of Mouse using Mouselistener and MouseMotionlistener.----------(uploaded---MListener.java)
 
 19. Write Java code to demonstrate:
     (i) Layout Managers
