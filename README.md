@@ -31,7 +31,7 @@ Questions:-
 
 13. WAP to implement Grid Layout and Border Layout.----------(uploaded---?---BdrLayout.java)
 
-14. WAP to implement MouseMotion and MouseMotionListener Interface.
+14. WAP to implement MouseMotion and MouseMotionListener Interface.----------(uploaded---MListener.java)
 
 15. What are various exceptions in JAVA? Write a program to handle your own Exception.
 
@@ -58,7 +58,7 @@ Questions:-
 
 24. Write Applet code to show all the activities of Mouse using Mouselistener and MouseMotionlistener classes.
 
-25. Write Java code to demonstrate different Layouts in Java. Discusses the importance of Adaptor class while inheriting inbuilt interfaces. 
+25. Write Java code to demonstrate different Layouts in Java. Discusses the importance of Adaptor class while inheriting inbuilt interfaces.----------(uploaded---MultiLay.java) 
 
 26. Discuss MouseListener and MouseMotionListener interfaces in detail. Write code to drag a line and rectangle using these interfaces.
 
