@@ -25,7 +25,7 @@ Questions:-
 
 10. WAP to create threads using thread class and demonstrate using their priority.----------(uploaded---ThreadTry.java)
 
-11. WAP to read the contents of a file using Character Stream.
+11. WAP to read the contents of a file using Character Stream.----------(uploaded---ReadFile.java)
 
 12. WAP for Implementing Calculator in an Applet, use appropriate Layout Manager.----------(uploaded---Calculator.java)
 
